@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: fc566ff604be45447987688895901d01
+timeCreated: 1492777359
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cuerpo
+    21300002: Item
+    21300004: ColaB
+    21300006: BloqueMediano
+    21300008: ColaA
+    21300010: PataInferiorB
+    21300012: PataSuperiorB
+    21300014: OrejaIzquierda
+    21300016: BloqueCorto
+    21300018: OrejaDerecha
+    21300020: BloqueLargo
+    21300022: PataInferiorA
+    21300024: PataSuperiorA
+    21300026: Cabeza
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 120
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 100
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4565103, y: 0.41780847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Item
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 172
+        width: 66
+        height: 84
+      alignment: 9
+      pivot: {x: 0.52634966, y: 0.61731863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ColaB
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 229
+        width: 51
+        height: 27
+      alignment: 9
+      pivot: {x: 0.90529376, y: 0.64177054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloqueMediano
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 160
+        width: 547
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ColaA
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 174
+        width: 48
+        height: 54
+      alignment: 9
+      pivot: {x: 0.89075214, y: 0.83315897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PataInferiorB
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 158
+        width: 25
+        height: 13
+      alignment: 9
+      pivot: {x: 0.26391357, y: 0.686946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PataSuperiorB
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 115
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.57785565, y: 0.8755277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OrejaIzquierda
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 120
+        width: 40
+        height: 52
+      alignment: 9
+      pivot: {x: 0.62042236, y: 0.17935269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloqueCorto
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 83
+        width: 276
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OrejaDerecha
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 46
+        height: 59
+      alignment: 9
+      pivot: {x: 0.74676347, y: 0.1285347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloqueLargo
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 17
+        width: 823
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PataInferiorA
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2
+        width: 45
+        height: 59
+      alignment: 9
+      pivot: {x: 0.48094228, y: 0.7971724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PataSuperiorA
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2
+        width: 45
+        height: 59
+      alignment: 9
+      pivot: {x: 0.51948124, y: 0.851654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 103
+        height: 85
+      alignment: 9
+      pivot: {x: 0.42171854, y: 0.088945456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
